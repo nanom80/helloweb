@@ -20,7 +20,6 @@
 			<%
 			}
 			%>
-			
 		</tbody>
 	</table>
 </body>
